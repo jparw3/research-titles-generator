@@ -2,6 +2,9 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
+  <a href="https://research-titles-generator-jparw.vercel.app" target="_blank">
+    <img alt="Vercel Status" src="https://img.shields.io/badge/Vercel-Online-green" />
+  </a>
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/jparw3" target="_blank">
