@@ -55,7 +55,7 @@ export default function Home() {
 
       <div className="flex flex-col">
         <div>Made With 💜 by <a href="https://github.com/jparw" rel="noreferrer" target="_blank" className="font-semibold text-[#C68BF9]">Jack Willars</a></div>
-        <div class="flex justify-center space-x-3 pt-2">
+        <div className="flex justify-center pt-2 space-x-3">
           <div className="bg-[#2B2A33] px-2 py-1 items-center flex text-xs text-[#C68BF9] rounded font-semibold">NEXT.JS</div>
           <div className="text-lg font-light text-[#5e5b70]">+</div>
           <div className="bg-[#2B2A33] px-2 py-1 items-center flex text-xs text-[#C68BF9] rounded font-semibold">TAILWIND</div>
